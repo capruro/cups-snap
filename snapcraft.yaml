@@ -367,7 +367,7 @@ parts:
         - grep
         - libbinutils
         - libmpfr6
-        - libisl19
+        - libisl22
         - libmpc3
     organize:
       usr/bin/: bin/
