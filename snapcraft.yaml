@@ -203,7 +203,7 @@ parts:
         - libusb-1.0-0
         - libavahi-common3
         - libavahi-client3
-        - libicu60
+        - libicu66
         - libjson-glib-1.0-0
         - libsnapd-glib1
         - libsoup2.4-1
