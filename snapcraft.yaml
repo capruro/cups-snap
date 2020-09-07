@@ -1,4 +1,4 @@
-name: cups
+name: my-first-useless-snap
 base: core20 # The base snap is the execution environment for this snap
 version: 0.1.0
 summary: CUPS-based printing stack snap
